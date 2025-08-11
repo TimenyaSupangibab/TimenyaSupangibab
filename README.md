@@ -9,7 +9,7 @@ An eager learner always chasing new skills and challenges.
 
 - 🎮 Made modded Minecraft projects as a kid (the fun beginnings!) <img src="https://media.giphy.com/media/13CoXDiaCcCoyk/giphy.gif" alt="minecraft gif" height="50" />  
 - 💻 Built **2 complete systems** from scratch with CRUD features using PHP & MySQL  
-- 🕹️ Developed a game in **Unity** using C# <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" alt="retro game controller" height="50" />  
+- 🕹️ Developed a game in **Unity** using C# <img src="[https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExempldTMwZHd5ZmN2emt0dWI5aHRzMTIzeHJ4bzJpb3M5b2hoM2NoeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/szaTML0LZFAQa3do7Y/giphy.gif)" alt="retro game controller" height="50" />  
 - 🌱 Skilled in **Laravel backend** — experienced, working towards pro level
 
 ---
