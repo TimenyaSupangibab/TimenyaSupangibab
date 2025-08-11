@@ -1,6 +1,6 @@
 # Hey there, I'm TimenyaSupangibab 👋 <img src="https://media.giphy.com/media/13CoXDiaCcCoyk/giphy.gif" alt="minecraft gif" height="50" />
 
-A passionate coder with a love for creating cool projects — from games to full systems.  
+A passionate coder with a love for creating cool projects from games to full systems.  
 An eager learner always chasing new skills and challenges.
 
 ---
