@@ -18,6 +18,7 @@ An eager learner always chasing new skills and challenges.
 
 - 🌐 Diving into **full-stack web development** to become a versatile developer  
 - 📱 Currently learning **Flutter** while working on an exciting project
+- 💼 Working as a **backend web developer** for our web-based grading system (thesis) using **Laravel**
 
 ---
 
