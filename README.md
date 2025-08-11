@@ -7,7 +7,7 @@ An eager learner always chasing new skills and challenges.
 
 ## 🚀 What I've done so far <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExempldTMwZHd5ZmN2emt0dWI5aHRzMTIzeHJ4bzJpb3M5b2hoM2NoeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/szaTML0LZFAQa3do7Y/giphy.gif" alt="retro game controller" height="50" /> 
 
-- 🎮 Made modded Minecraft projects as a kid (the fun beginnings!)
+- 🎮 Made modded Minecraft and Garry's Mod projects as a kid (the fun beginnings!)
 - 💻 Built **2 complete systems** from scratch with CRUD features using PHP & MySQL  
 - 🕹️ Developed a game in **Unity** using C# 
 - 🌱 Skilled in **Laravel backend** — experienced, working towards pro level
@@ -23,6 +23,14 @@ An eager learner always chasing new skills and challenges.
 
 ## 🔧 Tech & Skills
 
+- PHP, MySQL, Laravel  
+- C#, Unity  
+- CRUD development  
+- Backend development  
+- Flutter (in progress)  
+- Java (basic knowledge)  
+- Lua (small experience modding Garry's Mod)
+
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40" />
@@ -30,6 +38,8 @@ An eager learner always chasing new skills and challenges.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" alt="Unity" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="Flutter" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" alt="Lua" width="40" height="40" />
 </p>
 
 ---
