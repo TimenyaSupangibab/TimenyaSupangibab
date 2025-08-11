@@ -10,7 +10,7 @@ An eager learner always chasing new skills and challenges.
 - 🎮 Made modded Minecraft and Garry's Mod projects as a kid (the fun beginnings!)
 - 💻 Built **2 complete systems** from scratch with CRUD features using PHP & MySQL  
 - 🕹️ Developed a game in **Unity** using C# 
-- 🌱 Skilled in **Laravel backend** — experienced, working towards pro level
+- 🌱 Skilled in **Laravel backend**. Experienced, working towards pro level
 
 ---
 
