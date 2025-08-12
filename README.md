@@ -14,7 +14,7 @@ An eager learner always chasing new skills and challenges.
 
 ---
 
-## 📚 What I'm learning now <img src="https://tenor.com/view/oo-ee-ii-aa-ee-gif-7510344322331001223" alt="thinking" height="50">
+## 📚 What I'm learning now <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHB2aWZlZHlncDJwZWh4aGpiYTUwYjFxZmQ4OTNtaHY5NzhhYzk1eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1OrIIOIcRTDaNidc5p/giphy.gif" alt="thinking" height="50">
 
 - 🌐 Diving into **full-stack web development** to become a versatile developer  
 - 📱 Currently learning **Flutter** while working on an exciting project
